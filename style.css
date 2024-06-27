@@ -111,7 +111,7 @@ body{
 #apresentação1{
     position: absolute;
     z-index: 4;
-    top: 25%;
+    top: 24%;
     left: 18%;
     font-family: 'Playfair+Display';
 }
@@ -119,14 +119,14 @@ body{
 #apresentação2{
     position: absolute;
     z-index: 4;
-    top: 35%;
+    top: 34%;
     left: 18%;
     font-family: 'Gabriela';
 }
 #apresentação3{
     position: absolute;
     z-index: 4;
-    top: 45%;
+    top: 46%;
     left: 18%;
     font-family: 'Gabriela';
 }
@@ -134,7 +134,7 @@ body{
 #apresentação4{
     position: absolute;
     z-index: 4;
-    top: 69%;
+    top: 66%;
     left: 18%;
     font-family: 'Playfair+Display';
 }
@@ -142,7 +142,7 @@ body{
 .button {
     z-index: 4;
     position: absolute;
-    top: 74%;
+    top: 72%;
     left: 18%;
     width: fit-content;
     display: flex;
